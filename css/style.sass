@@ -14,18 +14,18 @@
     clear: both
 
 //Variables
-$header-bg: rgba(76,103,115,0.92)
-$img-border: rgba(76,103,115,0.16)
-$img-hover: rgba(76,103,115,0.57)
+$header-bg: rgba(36,39,47,0.92)
+$img-border: rgba(166,166,166,0.16)
+$img-hover: rgba(36,39,47,0.57)
 $font-main: 'Roboto', sans-serif
 $font-head: 'Raleway', sans-serif
 
 body
     /* background: url('/media/images/sptile.png') */
     background-attachment: fixed
-    background-color: #f5f1ed
+    background-color: #424B56
     font-weight: 300
-    color: #373d3b
+    color: #EEEEEE
 
 a
     text-decoration: none
@@ -35,6 +35,15 @@ a
 
 .slogan p
     font-size: 18px
+
+.filter
+    height: 18px
+    opacity: 0.50
+    text-align: center
+    border: none
+    border-radius: 2px
+    outline: none
+    padding: 1px
 
 .img-grid
     margin-top: 35px
@@ -61,7 +70,7 @@ p
 .lastline
     margin: 5px 0 34px
     font-size: 18px
-    color: rgba(227,216,204,1)
+    color: rgba(166,166,166,1)
 
 .col-1
     width: 24%
@@ -79,10 +88,10 @@ img
     width: 100%
     position: relative
     z-index: 1
-    border: 5px solid $img-border
+    border: 3px solid $img-border
 
     &:hover
-        border: 5px solid $img-hover
+        border: 3px solid $img-hover
 
 @import heading
 @import media-queries

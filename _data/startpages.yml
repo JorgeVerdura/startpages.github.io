@@ -1,3 +1,231 @@
+- image_url: /media/images/etacarinaea-startpage.png
+  full_path: "http://etacarinaea.github.io/startpage/"
+  title: "startpage"
+  author: "etacarinaea"
+  source: "https://github.com/etacarinaea/startpage"
+  tags: "simple minimal search keyboard controls"
+  col-size: col-1
+
+- image_url: /media/images/arkits.jpg
+  full_path: "https://arkits.github.io/newtab/"
+  title: "ArKits' Newtab Page"
+  author: "arkits"
+  source: "https://github.com/arkits/newtab"
+  col-size: col-1
+
+- image_url: /media/images/minimal_startpage.png
+  full_path: "https://pedro-pablo.github.io/minimal-startpage-template/"
+  title: "Minimal Startpage"
+  author: "pedro-pablo"
+  source: "https://github.com/pedro-pablo/minimal-startpage-template"
+  tags: "simple minimal search clean dark"
+  col-size: col-1
+
+- image_url: /media/images/yurucamp.png
+  full_path: "https://qnnie.github.io/YuruCamp-Startpage/"
+  title: "Yurucamp Particles"
+  author: "Qnnie"
+  source: "https://github.com/Qnnie/YuruCamp-Startpage"
+  tags: "particles anime menus card themed"
+  col-size: col-1
+
+- image_url: /media/images/dawntab.png
+  full_path: "https://0-l.github.io/dawn/"
+  title: "Dawn"
+  author: "0-l"
+  source: "https://github.com/0-l/dawn"
+  tags: "dark to-do search weather"
+  col-size: col-1
+
+- image_url: /media/images/kamikaltab2.jpg
+  full_path: "http://kamikal.github.io/tab2/"
+  title: "tab 2"
+  author: "Kamikal"
+  source: "https://github.com/kamikal/kamikal.github.io/tree/master/tab2"
+  tags: "simple search category"
+  col-size: col-1
+
+- image_url: /media/images/aqua.jpg
+  full_path: "https://hatsumei.tech/startpage/"
+  title: "Aqua"
+  author: "JamesAC42"
+  source: "https://github.com/JamesAC42/Rodnam/tree/gh-pages/projects/startpagev2"
+  col-size: col-1
+
+- image_url: /media/images/fluidwindows.png
+  full_path: "https://hatsumei.tech/fluid-startpage/"
+  title: "Fluid Design"
+  author: "JamesAC42"
+  source: "https://github.com/JamesAC42/startpage"
+  col-size: col-1
+
+- image_url: /media/images/salveimperator.png
+  full_path: /startpages/salveimperator/
+  title: "Salve imperator!"
+  author: "Anon"
+  source: "https://github.com/startpages/startpages.github.io/tree/master/startpages/salveimperator"
+  tags: "simple shortcuts search"
+  col-size: col-1
+
+- image_url: /media/images/saschadiercks.png
+  full_path: "http://www.metafolio.de/side-projects/startpage/"
+  title: "Browser Startpage"
+  author: "Sascha Diercks"
+  source: "https://github.com/saschadiercks/browserStartpage"
+  tags: "speedidial quickdial startpage tiles"
+  col-size: col-1
+
+- image_url: /media/images/jaredkent.png
+  full_path: /startpages/simplicity-jaredk3nt
+  title: "Simplicity - Jaredk3nt"
+  author: "Jaredk3nt"
+  source: "https://github.com/Jaredk3nt/homepage"
+  col-size: col-1
+  
+- image_url: /media/images/msdvvr.jpg
+  full_path: "https://msdvvr.github.io/startpage/"
+  title: "startpage"
+  author: "MSDVVR"
+  source: "https://github.com/msdvvr/startpage"
+  tags: "startpage clean multi"
+  col-size: col-1
+  
+- image_url: /media/images/nostvapor.PNG
+  full_path: "https://jettscythe.github.io"
+  title: "n0stV@p0R"
+  author: "Jett Scythe"
+  source: "https://github.com/JettScythe/jettscythe.github.io"
+  tags: "clean vaporwave basic startpage"
+  col-size: col-1
+
+- image_url: /media/images/yuune-vimstart.png
+  full_path: "https://yuune.github.io/yuune-vimstart/"
+  title: "vimstart"
+  author: "nandavera"
+  source: "https://github.com/yuune/yuune-vimstart"
+  tags: "clean vim inspired startpage"
+  col-size: col-1
+
+- image_url: /media/images/torvimdark.png
+  full_path: "https://hexx112.github.io/startpage/startpages/slate/"
+  title: "Dark slate"
+  author: "torvim"
+  source: "https://github.com/hexx112/startpage/tree/master/startpages/slate"
+  tags: "slate dark startpage new tab"
+  col-size: col-1
+
+- image_url: /media/images/seanvreehome.png
+  full_path: "https://seanvree.github.io/homepage/"
+  title: "Homepage"
+  author: "seanvree & haltdev"
+  source: "https://github.com/seanvree/homepage"
+  tags: "google minimal dark"
+  col-size: col-1
+
+- image_url: /media/images/eighth.png
+  full_path: "http://damienstewart.me/devola-startpage/"
+  title: "Devola"
+  author: "damienstewart"
+  source: "https://github.com/damienstewart/Startpages/tree/master/Devola%20Startpage"
+  tags: "simple dark rss"
+  col-size: col-1
+
+- image_url: /media/images/nexusStartPage.png
+  full_path: "https://eduardozepeda.github.io/nexusStartPage/"
+  title: "Nexus Startpage"
+  author: "EduardoZepeda"
+  source: "https://github.com/EduardoZepeda/nexusStartPage"
+  tags: "simple editable dark"
+  col-size: col-1
+
+- image_url: /media/images/capunodecaux.png
+  full_path: "https://decaux.capuno.cat/"
+  title: "Decaux"
+  author: "Capuno"
+  source: "https://github.com/Capuno/Decaux"
+  tags: "blocks keyboard search"
+  col-size: col-1
+
+- image_url: /media/images/localstorage.png
+  full_path: "https://paloranta.github.io/startpage-localstorage/"
+  title: "Localstorage link list"
+  author: "paloranta"
+  source: "https://github.com/paloranta/startpage-localstorage"
+  tags: "simple editable link-list"
+  col-size: col-1
+
+- image_url: /media/images/hipsterbrent.png
+  full_path: "https://brentschaper.github.io/Hipster-Startpage/"
+  title: "Hipster-Startpage"
+  author: "brentschaper"
+  source: "https://github.com/brentschaper/Hipster-Startpage"
+  tags: "simple hipster"
+  col-size: col-1
+
+- image_url: /media/images/retropage-2.jpg
+  full_path: "https://retropage.co"
+  title: "RetroPage"
+  author: "Ravenger"
+  source: "https://github.com/RavengerNetwork/RetroPage"
+  tags: "simple minimal"
+  col-size: col-1
+
+- image_url: /media/images/scar45-crt.png
+  full_path: "https://scar45.github.io/retro-crt-startpage/index.html"
+  title: "Retro CRT Terminal"
+  author: "scar45"
+  source: "https://github.com/scar45/retro-crt-startpage"
+  tags: "retro crt terminal scanline css3"
+  col-size: col-1
+
+- image_url: /media/images/katalysatorn-edge.png
+  full_path: "https://katalysatorn.github.io/MSEdge-StartPage/dark/"
+  title: "MS Edge Startpage"
+  author: "katalysatorn"
+  source: "https://github.com/katalysatorn/MSEdge-StartPage"
+  tags: "minimal"
+  col-size: col-1
+
+- image_url: /media/images/mintab.png
+  full_path: "https://koryschneider.github.io/mintab/"
+  title: "mintab"
+  author: "Kory Schneider"
+  source: "https://www.github.com/koryschneider/mintab"
+  tags: "minimal command-line"
+  col-size: col-1
+
+- image_url: /media/images/kemslyterminal.png
+  full_path: "https://kemsly.github.io/terminal/"
+  title: "terminal"
+  author: "kemsly"
+  source: "https://github.com/kemsly/kemsly.github.io/tree/master/terminal"
+  tags: "wm windows boxes command-line terminal"
+  col-size: col-1
+
+- image_url: /media/images/tommykubios.png
+  full_path: "/startpages/BIOS-tommyku/"
+  title: "Start page BIOS"
+  author: "tommyku"
+  source: "https://github.com/tommyku/start-page-bios"
+  tags: "machine bios"
+  col-size: col-1
+
+- image_url: /media/images/fideltstart.png
+  full_path: "https://bb.githack.com/fidelt/startpage/raw/ff1f431305bf00635aaea7ef89cdea0e71578520/index.html"
+  title: "Startpage"
+  author: "fidelt"
+  source: "https://bitbucket.org/fidelt/startpage"
+  tags: "wallpaper search"
+  col-size: col-1
+
+- image_url: /media/images/capunoblind.png
+  full_path: "http://capuno.es/blind/"
+  title: "Blind"
+  author: "Capuno"
+  source: "https://github.com/Capuno/Blind"
+  tags: "windows links search"
+  col-size: col-1
+
 - image_url: /media/images/traderjohn-yogic.jpg
   full_path: "http://johnho.ca/startpage/"
   title: "Yogic Startpage"
@@ -24,6 +252,7 @@
   title: "Terminal"
   author: "xprmt"
   source: "https://github.com/xprmt/xprmt.github.io/tree/master/terminal"
+  tags: "command-line terminal"
   col-size: col-1
 
 - image_url: /media/images/nielsvanrijn_Dark.jpg
@@ -31,6 +260,7 @@
   title: "Dark Startpage"
   author: "nielsvanrijn"
   source: "https://github.com/startpages/startpages.github.io/tree/master/startpages/nielsvanrijn_Dark-Startpage"
+  tags: "modern clean"
   col-size: col-1
 
 - image_url: /media/images/matyiustart.jpg
@@ -45,6 +275,7 @@
   title: "Tab: A Startpage"
   author: "KorySchneider"
   source: "https://github.com/koryschneider/tab-a-startpage"
+  tags: "minimal search"
   col-size: col-1
 
 - image_url: /media/images/oliverstart.jpg
@@ -59,6 +290,7 @@
   title: "Homepage"
   author: "E66666666"
   source: "https://github.com/E66666666/homepage"
+  tags: "boxed search linklists"
   col-size: col-1
 
 - image_url: /media/images/navigatron.jpg
